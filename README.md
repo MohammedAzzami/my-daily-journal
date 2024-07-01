@@ -5,7 +5,7 @@ Welcome to the Daily Journal project! This web application allows users to creat
 ## Project Description
 
 This project serves as a daily journal where you can document your journey as a web developer. You can share insights, tutorials, and experiences from your projects. The website is hosted on Vercel,
-and you can access it [here](https://vercel.live/link/daily-journal-d2kewvikt-mohammed-alazamis-projects.vercel.app?via=deployment-domains-list-commit).
+and you can access it [Click here to visit my daily journal](https://vercel.live/link/daily-journal-d2kewvikt-mohammed-alazamis-projects.vercel.app?via=deployment-domains-list-commit).
 
 ### Home Page
 
