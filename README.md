@@ -24,12 +24,16 @@ The contact page allows visitors to get in touch with the author via email.
 - **Home Page:** Displays a list of journal entries with a welcome message.
 - **About Page:** Provides information about the author.
 - **Contact Page:** Allows visitors to reach out to the author via email.
+- **Compose Page:** Allows users to create new journal entries.
 - **Individual Post Pages:** Displays full content of each journal entry.
+
+
 
 ## Technologies Used
 
 - **Express.js:** Web framework for Node.js.
 - **EJS:** Templating engine for generating HTML.
+- **Mongoose:** ODM for MongoDB.
 - **Body-Parser:** Middleware for parsing request bodies.
 - **Lodash:** Utility library for JavaScript.
 - **Path:** Node.js module for working with file and directory paths.
@@ -71,6 +75,14 @@ The contact page allows visitors to get in touch with the author via email.
   - `partials`: Directory containing partial EJS templates (e.g., header.ejs, footer.ejs).
 - `public`: Directory containing static files (CSS, images, JS).
 - `package.json`: Project configuration and dependencies.
+
+## Posting a New Entry
+To post a new journal entry:
+
+1. Navigate to the /compose page by clicking on the "Compose" link in the navigation bar.
+2. Fill in the title and body of your journal entry.
+3. Click the "Publish" button to save your entry.
+4. You will be redirected to the home page where you can see your new entry listed.
 
 ## Deployed Application
 
